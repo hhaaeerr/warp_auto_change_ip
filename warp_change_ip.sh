@@ -33,4 +33,3 @@ read -r -p "Input the region you want(e.g. HK,SG):" area
         systemctl restart wg-quick@wg
     fi
 done
-fi
